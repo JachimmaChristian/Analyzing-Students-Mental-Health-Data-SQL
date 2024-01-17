@@ -1,3 +1,5 @@
+![](mentalhealth.jpg) 
+
 # Project-Analyzing-Students-Mental-Health-in-SQL
 
 This project analyzes a dataset of international students at a Japanese university to uncover relationships between mental health, social connectedness, acculturative stress, and length of stay.
