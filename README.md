@@ -33,3 +33,5 @@ Universities can implement resources and programs to foster social connections, 
 Explore additional factors influencing international student mental health.
 Develop and evaluate interventions to promote wellbeing and reduce stress.
 Conduct longitudinal studies to track mental health trajectories over time.
+
+Dive into the full project [HERE](https://github.com/JachimmaChristian/Project-Analyzing-Students-Mental-Health-in-SQL/blob/main/workspace/notebook.ipynb)
