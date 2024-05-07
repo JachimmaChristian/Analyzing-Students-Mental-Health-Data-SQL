@@ -12,7 +12,7 @@ In this project, I analyzed a dataset of international students at a Japanese un
 
 **Technologies used:**
 
-PostgreSQL (for data cleaning, analysis, and querying)
+**PostgreSQL** (for data cleaning, analysis, and querying)
 
 **Key findings:**
 
