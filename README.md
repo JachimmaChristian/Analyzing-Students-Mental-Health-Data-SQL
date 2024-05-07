@@ -1,8 +1,8 @@
 ![](mentalhealth.jpg) 
 
-# Project-Analyzing-Students-Mental-Health-in-SQL
+# Analyzing Student's Mental Health Data - SQL
 
-This project analyzes a dataset of international students at a Japanese university to uncover relationships between mental health, social connectedness, acculturative stress, and length of stay.
+In this project, I analyzed a dataset of international students at a Japanese university to uncover relationships between mental health, social connectedness, acculturative stress, and length of stay.
 
 **Key questions investigated:**
 
@@ -36,4 +36,4 @@ Explore additional factors influencing international student mental health.
 Develop and evaluate interventions to promote wellbeing and reduce stress.
 Conduct longitudinal studies to track mental health trajectories over time.
 
-Dive into the full project [HERE](https://github.com/JachimmaChristian/Project-Analyzing-Students-Mental-Health-in-SQL/blob/main/workspace/notebook.ipynb)
+Dive into the full project ***[HERE](https://github.com/JachimmaChristian/Project-Analyzing-Students-Mental-Health-in-SQL/blob/main/workspace/notebook.ipynb)***
